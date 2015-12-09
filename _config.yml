@@ -2,6 +2,7 @@ name: MarinaOrchestra
 favicon: null
 layout_spectrum: 0.6296219551004469
 typography_spectrum: 0.8310112615581602
+title: Marina Orchestra
 cta:
   domain: null
   bucket: null
