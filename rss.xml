@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marina Orchestra]]></title>
+        <description><![CDATA[Marina Orchestra]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 23:35:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80cae676-3453-4953-a865-6b5f47e8a72a.jpg">]]></description>
+            <link>undefineda24fc2cb-46e2-45bb-971a-90771629a55c/index.html</link>
+            <guid isPermaLink="false">a24fc2cb-46e2-45bb-971a-90771629a55c</guid>
+            <pubDate>Wed, 09 Dec 2015 23:35:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
