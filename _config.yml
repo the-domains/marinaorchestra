@@ -1,7 +1,7 @@
 name: MarinaOrchestra
 favicon: null
-layout_spectrum: 0.5293
-typography_spectrum: 0.48522
+layout_spectrum: 0.97317
+typography_spectrum: 0.11613
 title: Marina Orchestra
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#cbb9ab'
   brandStrength: 0.25
   lightness: 0.8700883395504206
-  saturation: 0.14986031036823988
+  saturation: 0.0625
   rhythmicContrast: 0.5716639442835003
 purpose: []
