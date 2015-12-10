@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Where in the world is Marina Orchestra?
-datePublished: '2015-12-10T00:08:07.504Z'
-dateModified: '2015-12-10T00:08:05.285Z'
+datePublished: '2015-12-10T00:10:19.187Z'
+dateModified: '2015-12-10T00:10:12.782Z'
 title: 'Live!'
 author: []
 sourcePath: _posts/2015-12-09-marina-orchestra-live.md
